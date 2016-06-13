@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E061E184F050B9694C0A08161601BF80F1E6BF3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E061E184F050B9694C0A08161601BF80F1E6BF3D" : 0,
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78956C1C-205F-41CD-8483-0BF7D32B05B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E061E184F050B9694C0A08161601BF80F1E6BF3D" : "locationTrivia-objects-ios-0616\/",
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "locationTrivia-Objects",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "locationTrivia-Objects.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/locationTrivia-objects-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E061E184F050B9694C0A08161601BF80F1E6BF3D"
+    }
+  ]
+}
